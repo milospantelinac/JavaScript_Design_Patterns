@@ -9,23 +9,23 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
   
 | Naziv | Opis |
 | --- | --- |
-| Singleton | A class of which only a single instance can exist |
-| Builder | Separates object construction from its representation |
-| Abstract Factory | Creates an instance of several families of classes |
-| Factory Method | Creates an instance of several derived classes |
-| Prototype | A fully initialized instance to be copied or cloned |
+| Singleton | Klasa od koje može postojati samo jedna instanca |
+| Builder | Odvaja konstrukciju objekta od njegove reprezentacije |
+| Abstract Factory | Omogućuje proizvodnju **families of related** objekata bez navođenja njihovih konkretnih klasa. |
+| Factory Method | Stvara instancu nekoliko izvedenih klasa |
+| Prototype | Potpuno inicijalizirana instanca koju treba kopirati ili klonirati |
 
 ## Strukturalni Paterni
 
 | Naziv | Opis |
 | --- | --- |
-| Adapter | Match interfaces of different classes |
-| Bridge | Separates an object’s interface from its implementation |
-| Composite | A tree structure of simple and composite objects |
-| Decorator | Add responsibilities to objects dynamically |
-| Facade | A single class that represents an entire subsystem |
-| Flyweight | A fine-grained instance used for efficient sharing |
-| Proxy | An object representing another object |
+| Adapter | Spajanje interfejsa različitih klasa |
+| Bridge | Odvaja interfejs objekta od njegove implementacije |
+| Composite | Struktura stabla jednostavnih i složenih objekata |
+| Decorator | Dinamički dodavanje responsibilities objektima |
+| Facade | Jedna klasa koja predstavlja celi podsistem |
+| Flyweight | Omogućuje da se smesti više objekata u dostupnu količinu RAM-a deljenjem zajedničkih delova stanja. |
+| Proxy | Objekat koji reprezentuje drugi objekat |
 
 ## Bihevioralni Paterni
 
