@@ -40,5 +40,5 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
 | Observer | A way of notifying change to a number of classes |
 | State | Alter an object's behavior when its state changes |
 | Strategy | Encapsulates an algorithm inside a class |
-| Template | Method	Defer the exact steps of an algorithm to a subclass |
+| Template Method | Defer the exact steps of an algorithm to a subclass |
 | Visitor | Defines a new operation to a class without change |
