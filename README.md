@@ -31,14 +31,14 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
 
 | Naziv | Opis |
 | --- | --- |
-| Chain of Resp | A way of passing a request between a chain of objects |
-| Command | Encapsulate a command request as an object |
-| Interpreter | A way to include language elements in a program |
-| Iterator | Sequentially access the elements of a collection |
-| Mediator | Defines simplified communication between classes |
-| Memento | Capture and restore an object's internal state |
-| Observer | A way of notifying change to a number of classes |
-| State | Alter an object's behavior when its state changes |
-| Strategy | Encapsulates an algorithm inside a class |
-| Template Method | Defer the exact steps of an algorithm to a subclass |
-| Visitor | Defines a new operation to a class without change |
+| Chain of Resp | Način prosleđivanja zahtjeva između lanca objekata |
+| Command | Enkapsulacija zahteva naredbe kao objekat |
+| Interpreter | Način uključivanja jezičnih elemenata u program |
+| Iterator | Sekvencijalni pristup elementima kolekcije |
+| Mediator | Definiše pojednostavljenu komunikaciju između klasa |
+| Memento | Snimite i vratite unutrašnje stanje objekta |
+| Observer | Način obaveštavanja o promenama određenom broju klasa |
+| State | Promenite ponašanje objekta kada se promeni njegovo stanje |
+| Strategy | Enkapsulira algoritam unutar klase |
+| Template Method | Odložite tačne korake algoritma na podklasu |
+| Visitor | Definiše novu operaciju u klasi bez promene |
