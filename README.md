@@ -9,7 +9,7 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
   
 | Naziv | Opis |
 | --- | --- |
-| Singleton | Klasa od koje može postojati samo jedna instanca |
+| [Singleton](https://github.com/milospantelinac/JavaScript_Singleton_Design_Pattern/edit/main/README.md) | Klasa od koje može postojati samo jedna instanca |
 | Builder | Odvaja konstrukciju objekta od njegove reprezentacije |
 | Abstract Factory | Omogućuje proizvodnju **families of related** objekata bez navođenja njihovih konkretnih klasa. |
 | Factory Method | Stvara instancu nekoliko izvedenih klasa |
