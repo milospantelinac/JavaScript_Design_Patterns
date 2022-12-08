@@ -23,7 +23,7 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
 | Bridge | Odvaja interfejs objekta od njegove implementacije |
 | Composite | Struktura stabla jednostavnih i složenih objekata |
 | Decorator | Dinamički dodavanje responsibilities objektima |
-| Facade | Jedna klasa koja predstavlja celi podsistem |
+| [Facade](https://github.com/milospantelinac/JavaScript_Facade_Design_Pattern/blob/main/README.md) | Jedna klasa koja predstavlja celi podsistem |
 | Flyweight | Omogućuje da se smesti više objekata u dostupnu količinu RAM-a deljenjem zajedničkih delova stanja. |
 | Proxy | Objekat koji reprezentuje drugi objekat |
 
