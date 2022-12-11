@@ -37,7 +37,7 @@ Knjiga **[The 23 Gang of Four (GoF)](https://springframework.guru/gang-of-four-d
 | Iterator | Sekvencijalni pristup elementima kolekcije |
 | Mediator | Definiše pojednostavljenu komunikaciju između klasa |
 | Memento | Snimite i vratite unutrašnje stanje objekta |
-| Observer | Način obaveštavanja o promenama određenom broju klasa |
+| [Observer](https://github.com/milospantelinac/JavaScript_Observer_Design_Pattern/blob/main/README.md) | Način obaveštavanja o promenama određenom broju klasa |
 | State | Promenite ponašanje objekta kada se promeni njegovo stanje |
 | Strategy | Enkapsulira algoritam unutar klase |
 | Template Method | Odložite tačne korake algoritma na podklasu |
